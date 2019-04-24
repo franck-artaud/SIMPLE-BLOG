@@ -1,0 +1,19 @@
+{
+  "name": "simple-blog",
+  "version": "1.0.0",
+  "description": "a simple blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franck-artaud/SIMPLE-BLOG.git"
+  },
+  "author": "Franc ARTAUD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franck-artaud/SIMPLE-BLOG/issues"
+  },
+  "homepage": "https://github.com/franck-artaud/SIMPLE-BLOG#readme"
+}
